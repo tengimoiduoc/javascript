@@ -1,6 +1,6 @@
 'use strict';
 
-// Get DOM elemrnts
+// Get DOM elements
 const submitBtn = document.getElementById('submit-btn');
 const showPetBtn = document.getElementById('healthy-btn');
 const calcBMIBtn = document.getElementById('BMI-btn');
